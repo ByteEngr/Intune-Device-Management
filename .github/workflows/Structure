@@ -1,0 +1,30 @@
+Intune-Device-Management-Toolkit
+│
+├── README.md
+│
+├── Scripts
+│   ├── Connect-Graph.ps1
+│   ├── Get-IntuneDevices.ps1
+│   ├── Export-DeviceCompliance.ps1
+│   ├── Import-AutopilotDevice.ps1
+│   ├── Get-AutopilotProfiles.ps1
+│   ├── Assign-DeviceToGroup.ps1
+│   ├── Generate-IntuneSecurityReport.ps1
+│
+├── Autopilot
+│   ├── Autopilot-DeploymentProfile.json
+│   ├── ESP-Profile.json
+│
+├── Policies
+│   ├── Compliance-Windows10.json
+│   ├── Compliance-Android.json
+│   ├── Compliance-iOS.json
+│
+├── Reports
+│   ├── Sample-Device-Inventory.csv
+│   ├── Sample-Compliance-Report.csv
+│
+├── Documentation
+│   ├── workflows.png
+│   ├── autopilot-flow.md
+│   ├── intune-reporting.md

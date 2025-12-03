@@ -1,0 +1,6 @@
+{
+  "displayName": "iOS Compliance Policy",
+  "minimumOSVersion": "15.0",
+  "passwordRequired": true,
+  "blockedApps": []
+}

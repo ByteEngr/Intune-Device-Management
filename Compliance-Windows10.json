@@ -1,0 +1,8 @@
+{
+  "displayName": "Windows 10 Compliance Policy",
+  "passwordRequired": true,
+  "osMinimumVersion": "10.0.19045.0",
+  "bitLockerEnabled": true,
+  "secureBootRequired": true,
+  "tpmRequired": true
+}

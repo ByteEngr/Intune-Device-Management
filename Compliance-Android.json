@@ -1,0 +1,6 @@
+{
+  "displayName": "Android Compliance Policy",
+  "minimumOSVersion": "12",
+  "requirePlayIntegritAttestation": true,
+  "passwordRequired": true
+}

@@ -1,18 +1,29 @@
-# Intune-Device-Management
-Scripts, policies, and deployment templates for Intune device provisioning, compliance, and reporting.
-Intune Device Management Toolkit
+# Intune Device Management Toolkit
 
-This repository provides:
+A collection of PowerShell automations, JSON templates, and reporting tools designed for Microsoft Intune device lifecycle management.
 
-Autopilot deployment profiles
+## 🚀 What's Included
 
-Device compliance templates
+### ✔️ Autopilot
+- Deployment profile templates  
+- Enrollment Status Page (ESP) JSON  
+- Hardware hash import automation  
 
-Intune reporting scripts
+### ✔️ Device Compliance
+- Windows, iOS, Android compliance JSON  
+- Batch export and reporting scripts  
 
-Automated device onboarding flows
+### ✔️ Reporting & Monitoring
+- Intune device inventory export  
+- Compliance reports  
+- Security posture summary  
 
-Policy JSON examples
+### ✔️ Automated Onboarding
+- Autopilot device import  
+- Device-to-group assignment  
+- Enrollment workflows  
 
-Technologies:
-Intune, Autopilot, Graph API, PowerShell, Windows 10/11, iOS, Android
+---
+
+## 📂 Repository Structure
+

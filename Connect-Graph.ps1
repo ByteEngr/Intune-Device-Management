@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Connect to Graph with Intune, Device, and Autopilot permissions
+    Connect to MS Graph with Intune, Device, and Autopilot permissions
 #>
 
 param(
